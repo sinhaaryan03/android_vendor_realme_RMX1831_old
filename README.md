@@ -1,4 +1,4 @@
-Realme U1 : Device Tree
+Realme U1 : Vendor Tree
 ================================================================
 
 Basic   | Spec Sheet
